@@ -2,6 +2,10 @@ body {
 	padding: 0;
 }
 
+#title {
+	text-align: center;
+}
+
 #slider {
 	width: 796px;
 	margin: 30px auto;
